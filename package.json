@@ -1,16 +1,16 @@
 {
-"name": "bsocasino",
-"theme": "bsocasino",
-"version": "2.3.9",
-"description": "bsocasino สมัครเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
-"keywords": [
-"bsocasino",
-"bsocasino เครดิตฟรี",
-"bsocasino ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/bsocasino",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "bsocasino",
+  "theme": "bsocasino",
+  "version": "2.4.0",
+  "description": "bsocasino สมัครเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "bsocasino",
+    "bsocasino เครดิตฟรี",
+    "bsocasino ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/bsocasino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
